@@ -1,0 +1,3 @@
+/* rev-e9b30c-20261006 */
+USAGE.txt
+install x64 git restart open code tab
